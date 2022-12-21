@@ -1,0 +1,17 @@
+body{
+    background-position: center;
+    background-size: cover;
+    border-width: 10px;
+    text-align: center;
+}
+h1{
+    color: darkred;
+    
+}
+
+#button
+{
+    background-color: rgb(249, 3, 57);  
+    color:rgb(241, 243, 241);
+    font-size: 24px; 
+}
